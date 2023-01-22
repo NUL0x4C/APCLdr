@@ -14,6 +14,7 @@ APCLdr: Payload Loader With Evasion Features
 - Payload execution using APC - alertable thread
 - Execution delation using [MsgWaitForMultipleObjects](https://github.com/NUL0x4C/APCLdr/blob/main/APCLdr/APCLdr.c#L66) - edit [this](https://github.com/NUL0x4C/APCLdr/blob/main/APCLdr/Common.h#L6)
 - the total size is 8kb + the payload size
+- compatible with **LLVM (clang-cl)** Option
 
 <br>
 
