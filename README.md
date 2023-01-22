@@ -18,7 +18,8 @@ APCLdr: Payload Loader With Evasion Features
 <br>
 
 ### Usage:
-Use [Builder](https://github.com/NUL0x4C/APCLdr/tree/main/Builder) to update the [PayloadFile.pf](https://github.com/NUL0x4C/APCLdr/blob/main/APCLdr/PayloadFile.pf) file, that'll be the encrypted payload to be saved in the .rsrc section of the loader
+- Use [Builder](https://github.com/NUL0x4C/APCLdr/tree/main/Builder) to update the [PayloadFile.pf](https://github.com/NUL0x4C/APCLdr/blob/main/APCLdr/PayloadFile.pf) file, that'll be the encrypted payload to be saved in the .rsrc section of the loader
+- Compile as x64 Release
 
 <br>
 
